@@ -1,2 +1,2 @@
-# JavaKnowledgePoints
-Java知识点
+# JavaSEKnowledgePoints
+Java基础中的关键知识点总结
